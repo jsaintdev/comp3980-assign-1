@@ -1,0 +1,4 @@
+/home/justinsaint/comp3980-assign-1/build/CMakeFiles/file_transformer.dir
+/home/justinsaint/comp3980-assign-1/build/CMakeFiles/format.dir
+/home/justinsaint/comp3980-assign-1/build/CMakeFiles/edit_cache.dir
+/home/justinsaint/comp3980-assign-1/build/CMakeFiles/rebuild_cache.dir

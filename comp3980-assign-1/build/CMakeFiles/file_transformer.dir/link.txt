@@ -1,0 +1,1 @@
+/usr/bin/clang-18 -pg -fprofile-arcs --coverage -ftest-coverage -fprofile-update=prefer-atomic -fstack-protector-all -fstack-check -finstrument-functions CMakeFiles/file_transformer.dir/src/main.c.o -o file_transformer   -L/usr/local/lib
