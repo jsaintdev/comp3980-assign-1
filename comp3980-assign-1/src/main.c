@@ -105,7 +105,8 @@ void transform(const char *filter, char *buffer)
     }
     else
     {
-     	printf("\n\n***\tWARNING: No filter applied. Output text same as input text.\t***\n\n");
+        printf("\n***\tWARNING: No filter applied. Output text same as input text.\t***\n");
+    }
 }
 
 // Open input file and copy data into buffer
